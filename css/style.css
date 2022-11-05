@@ -1,0 +1,217 @@
+:root {
+	--primary-color: #e50914;
+	--dark-color: #141414;
+	--light-color: #f4f4f4;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Arial';
+	background: #000;
+	color: #999;
+}
+
+
+h1{
+	color: #fff;
+    position: absolute;
+    font-size: 60px;
+    width: 800px;
+    top: 100px;
+    left: 30%;
+    text-align: center;
+}
+
+
+.one {
+    position: absolute;
+    color: #fff;
+    font-size: 25px;
+    width: 800px;
+    top: 50%;
+    left: 30%;
+    text-align: center;
+}
+
+.two {
+
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    width: 800px;
+    top: 58%;
+    left: 30%;
+    text-align: center;
+
+}
+
+
+img {
+	width: 100%;
+}
+
+.showcase {
+	width: 100%;
+	height: 45rem;
+	position: relative;
+	background: rgba(0,0,0,0.5) url("../images/PT-pt-20221017-popsignuptwoweeks-perspective_alpha_website_large.jpg") no-repeat center center/cover fixed;
+    background-blend-mode: darken;
+
+}
+
+.showcase-top{
+    position: relative;
+    height: 90px;
+    
+}
+
+.showcase-top img {
+    width: 300px; 
+    position: absolute;
+    top: 0;
+}
+
+.Tutoriais {
+	position: relative;
+	background: rgba(0,0,0,0.5) url("../images/wallpaper.jpg") fixed 100vh 100vw;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.video-presentation{
+    width: 750px;
+    position: relative;
+    left: 32%;
+    top: 100px;    
+
+}
+
+a#login-button {
+    background-color: #e70505;
+    border-radius: 20px;
+    top: 30px;
+    right: 40px;
+    border-width: 0;
+    bottom: auto;
+    color: #000000;
+    float: right;
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: absolute;
+    text-decoration: none;
+  }
+   
+
+h{
+    color: #fff;
+    position: relative;
+    font-size: 30px;
+    width: 800px;
+    left: 30%;
+    top: 100px;
+
+}
+
+h2{
+    color: #fff;
+    position: relative;
+    font-size: 30px;
+    width: 800px;
+    left: 30%;
+    top: 150px;
+}
+
+#porta{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+#dormir{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px; 
+}
+
+#abs{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#agua{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#brotheragem{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+#ovo{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#marombeiro{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#emitancia{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#homosapienfobismo{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#antonio{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
+
+#telefonar{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+}
